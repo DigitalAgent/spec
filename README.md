@@ -55,3 +55,7 @@ This document serves as the current specification of DigitalAgent, a suite of ap
 * Client Engines, Services, IPC, etc - C++11 / Boost
 * Mobile UX API Adapters - Java / Obj-C / Swift
 * Core UX - React Native (all targets)
+
+#### Client-Side Stack
+
+![Client-Side Architecture](https://github.com/DigitalAgent/spec/raw/master/drawings/client-architecture.xml "Logo Title Text 1")
