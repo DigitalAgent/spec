@@ -1,8 +1,15 @@
-# DigitalAgent Specification
+# DigitalAgent Project Specification
 
-Specifications and design documents for Digital Agent products and services
+![revision](https://img.shields.io/badge/revision-0.1-lightgrey.svg)
+![license](https://img.shields.io/badge/license-MIT-green.svg)
 
-## Targets
+
+## Overview
+
+This document serves as the current specification of DigitalAgent, a suite of applications and services for auditing and securing one's devices, accounts, and other aspects of digital identity.
+
+
+### Build Targets
 
 	• Windows
 	• Mac OSX
@@ -11,8 +18,7 @@ Specifications and design documents for Digital Agent products and services
 	• iOS
 	• ???
 
-
-## Standard Features (desktop and mobile)
+### Standard Features (desktop and mobile)
 
 	• Scan / clean junk files (temp, logs, installers, etc.)
 	• Clear browser data (cache, history, etc.)
@@ -23,7 +29,8 @@ Specifications and design documents for Digital Agent products and services
 	• Custom Profiles - Energy saving, high performance, ultra-secure for public networks, etc.
 
 
-## Additional Mobile Features
+### Additional Mobile Features
 
 	• Advanced Security Profiles - disable device features (GPS, Radio) based on filters such as location, time, or more
 	• Kill Switch - Disable GPS, Radio etc. using gestures and/or easy-access control panel
+
