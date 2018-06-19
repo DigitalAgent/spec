@@ -58,4 +58,4 @@ This document serves as the current specification of DigitalAgent, a suite of ap
 
 #### Client-Side Stack
 
-![Client-Side Architecture](https://raw.githubusercontent.com/DigitalAgent/spec/master/diagrams/client-architecture.xml)
+![Client-Side Architecture](https://raw.githubusercontent.com/DigitalAgent/spec/master/diagrams/client-architecture.png)
