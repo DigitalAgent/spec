@@ -3,6 +3,8 @@
 ![revision](https://img.shields.io/badge/revision-0.1-lightgrey.svg)
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
+![](digital-agent-banner-1366-768.png)
+
 
 This document serves as the current specification of DigitalAgent, a suite of applications and services for auditing and securing one's devices, accounts, and other aspects of digital identity.
 
